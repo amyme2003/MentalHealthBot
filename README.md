@@ -12,5 +12,9 @@ Welcome to the Mind Quest, a bot designed to provide valuable information and in
 * **Limited Interaction Scope**: The bot's capabilities are limited to predefined commands and responses. It may not understand or respond appropriately to every user input or question.
 * **Informational Tool**: The bot provides informational support and resources but does not replace professional medical advice or therapy.
 * **Accuracy Disclaimer**: While efforts are made to provide accurate information, verify details from trusted sources or consult a healthcare professional.
-## Prerequisite
+## Fine Tuning
+The model has been fine-tuned using our dataset, specializing its responses to address mental health-related queries more effectively. This process involved training the model on our dataset to optimize its performance and ensure accurate and personalized information delivery.
+## Quantization
+To enhance deployment efficiency, the model underwent quantization, reducing its size and enhancing inference speed, thus optimizing performance for real-time applications.
+
 
