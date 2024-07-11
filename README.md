@@ -16,5 +16,6 @@ Welcome to the Mind Quest, a bot designed to provide valuable information and in
 The model has been fine-tuned using our dataset, specializing its responses to address mental health-related queries more effectively. This process involved training the model on our dataset to optimize its performance and ensure accurate and personalized information delivery.
 ## Quantization
 To enhance deployment efficiency, the model underwent quantization, reducing its size and enhancing inference speed, thus optimizing performance for real-time applications.
+Deployed Model: https://huggingface.co/amyme2003/MIND_QUEST-Mental_Health_Chtabot/tree/main
 
 
