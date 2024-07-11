@@ -17,6 +17,5 @@ The model has been fine-tuned using our dataset, specializing its responses to a
 ## Quantization
 To enhance deployment efficiency, the model underwent quantization, reducing its size and enhancing inference speed, thus optimizing performance for real-time applications.
 ##
-Deployed Model: https://huggingface.co/amyme2003/MIND_QUEST-Mental_Health_Chtabot/tree/main
-
+Deployed Model: https://huggingface.co/amyme2003/MIND_QUEST-Mental_Health_Chatbot
 
